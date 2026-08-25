@@ -1,0 +1,8 @@
+{
+  "name": "Nimma's Dental Clinic",
+  "description": "Nimma's Dental Clinic - Exceptional dental care focused on comfort, natural aesthetics, and holistic oral health.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
