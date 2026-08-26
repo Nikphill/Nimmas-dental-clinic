@@ -1822,14 +1822,14 @@ const Team = () => {
     {
       name: 'Dr. Abhishek Reddy Nimma',
       role: 'Consultant Oral & Maxillofacial Surgeon',
-      image: '/src/assets/images/abi.png',
+      image: 'Nikphill/Nimmas-dental-Clinic/src/assets/images/abi.png',
       specialty: 'Maxillofacial, Trauma & Implant Surgery',
       bio: 'Highly experienced clinical surgeon specializing in complicated dental extractions, trauma care, and high-precision titanium implant fixtures.'
     },
     {
       name: 'Dr. Kranthi Nimma',
       role: 'Consultant Periodontist',
-      image: '/src/assets/images/kranthi.png',
+      image: 'Nikphill/Nimmas-dental-Clinic/src/assets/images/kranthi.png',
       specialty: 'Periodontist',
       bio: 'Expert dental practitioner dedicated to active periodontal care, cosmetic smile makeovers, tooth alignment, and pain-free preventative maintenance.'
     }
