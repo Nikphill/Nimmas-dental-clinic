@@ -465,12 +465,12 @@ const AppointmentConcierge = () => {
     {
       name: 'Dr. Abhishek Reddy Nimma',
       title: 'Consultant Oral & Maxillofacial Surgeon',
-      img: 'Nikphill/Nimmas-dental-Clinic/src/assets/images/abi.png'
+      img: 'src/assets/images/abi.png'
     },
     {
       name: 'Dr. Kranthi Nimma',
       title: 'Consultant Periodontist',
-      img: 'Nikphill/Nimmas-dental-Clinic/src/assets/images/kranthi.png'
+      img: 'src/assets/images/kranthi.png'
     }
   ];
 
@@ -1822,14 +1822,14 @@ const Team = () => {
     {
       name: 'Dr. Abhishek Reddy Nimma',
       role: 'Consultant Oral & Maxillofacial Surgeon',
-      image: 'Nikphill/Nimmas-dental-Clinic/src/assets/images/abi.png',
+      image: 'src/assets/images/abi.png',
       specialty: 'Maxillofacial, Trauma & Implant Surgery',
       bio: 'Highly experienced clinical surgeon specializing in complicated dental extractions, trauma care, and high-precision titanium implant fixtures.'
     },
     {
       name: 'Dr. Kranthi Nimma',
       role: 'Consultant Periodontist',
-      image: 'Nikphill/Nimmas-dental-Clinic/src/assets/images/kranthi.png',
+      image: 'src/assets/images/kranthi.png',
       specialty: 'Periodontist',
       bio: 'Expert dental practitioner dedicated to active periodontal care, cosmetic smile makeovers, tooth alignment, and pain-free preventative maintenance.'
     }
